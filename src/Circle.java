@@ -59,7 +59,7 @@ public class Circle {
 
 
     /*
-    Ska inte ljuga vet inte vad denna gör, antar att det har något med hur Cirkeln skrivs ut.
+    Ska inte ljuga vet inte vad denna gör, antar att det har något med hur Cirkeln skrivs ut. dd
      */
     @Override
     public String toString() {
